@@ -1,0 +1,11 @@
+Based on the data and analysis performed, we aimed to assess whether a Covid-19 patient is at high risk or not by considering their symptoms, medical history, and Covid-19 status. The dataset provided valuable insights into the relationships between various risk factors and Covid-19 outcomes.
+
+Our exploratory data analysis (EDA) revealed that the majority of patients had a "mild" Covid-19 status, while a smaller proportion had "negative," "medium," or "critical" status. This distribution of Covid-19 status suggests that most patients had relatively mild cases.
+
+Furthermore, we investigated the impact of individual risk factors on Covid-19 status. While the visualizations provided initial insights, additional feature engineering and machine learning techniques could help build more accurate predictive models to assess high-risk patients.
+
+As for our definition of high risk, we identified patients with "mild" or "critical" Covid-19 status as being at high risk, while those with "negative" or "medium" status were considered not at high risk. This threshold was chosen to be cautious and capture patients with moderate to severe Covid-19 cases.
+
+It is important to note that this analysis is only an initial exploration and not a fully developed predictive model. For practical application and more accurate risk assessment, we recommend employing sophisticated machine learning algorithms and incorporating a larger dataset containing labeled high-risk patient data.
+
+In conclusion, our analysis offers valuable insights into the relationships between Covid-19 status and individual risk factors. Further advancements in predictive modeling and a deeper understanding of the data could provide healthcare professionals with better tools to identify high-risk patients, leading to more effective treatment and care strategies.
